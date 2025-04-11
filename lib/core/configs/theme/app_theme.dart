@@ -15,7 +15,7 @@ class AppTheme {
             color: Color(0xffA7A7A7),
             fontWeight: FontWeight.w500,
           ),
-          contentPadding: const EdgeInsets.all(30),
+          contentPadding: const EdgeInsets.all(20),
           border: OutlineInputBorder(
               borderRadius: BorderRadius.circular(4),
               borderSide: BorderSide.none),
